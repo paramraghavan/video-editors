@@ -13,4 +13,8 @@
 - https://www.google.com/search?q=export+imovie+to+mp4&sca_esv=556814175&rlz=1C5GCEM_enUS1063US1063&sxsrf=AB5stBhBgyRJdunrFVNZSqRoSnsfa-3Lng%3A1692034548367&ei=9GXaZNv9FbCe5NoP6M2gIA&oq=export+imovie&gs_lp=Egxnd3Mtd2l6LXNlcnAiDWV4cG9ydCBpbW92aWUqAggBMggQABiKBRiRAjIIEAAYigUYkQIyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEj2MlAAWKoYcAB4AZABAJgBeaAB8giqAQQxMS4yuAEDyAEA-AEBwgIEECMYJ8ICBxAjGIoFGCfCAhEQLhiABBixAxiDARjHARjRA8ICCxAAGIAEGLEDGIMBwgIHEAAYigUYQ8ICChAAGIAEGBQYhwLCAggQLhiABBixA8ICCBAAGIAEGLEDwgINEAAYigUYsQMYgwEYQ8ICBBAAGAPCAgsQLhiABBixAxiDAcICChAAGIoFGLEDGEPCAhEQLhiABBixAxiDARjHARivAcICCxAuGIAEGMcBGNEDwgILEC4YxwEY0QMYgATCAgsQLhiABBjHARivAeIDBBgAIEGIBgE&sclient=gws-wiz-serp#kpvalbx=_hWfaZImpDeat5NoP0omVsAs_32
 
 - same transition to multiple clips, https://www.google.com/search?q=imovie+select+transition&rlz=1C5GCEM_enUS1063US1063&oq=imovie+select+transition&aqs=chrome..69i57j33i160l3.4837j0j9&sourceid=chrome&ie=UTF-8#kpvalbx=_zKLuZNPUCbvPxc8P-I-qkAI_48
-  
+
+### Print poster 
+- print a picture across multiple pages
+- https://posterazor.sourceforge.io/ - windows and osx
+- you can use paint on windows as well
