@@ -18,3 +18,8 @@
 - print a picture across multiple pages
 - https://posterazor.sourceforge.io/ - windows and osx
 - you can use paint on windows as well
+
+## mac tools
+- [Screenshot tool for designersfront-end engineersmobile developersthose who care about pixel](https://shottr.cc/)
+- [No-Doz for your Mac](http://www.sticksoftware.com/software/Jiggler.html)
+- [dock station software](https://support.displaylink.com/)
