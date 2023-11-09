@@ -32,4 +32,6 @@
 - brew install blackhole
 - brew install --cask blackhole-16ch
 - Configure audio  midi, see  https://www.youtube.com/watch?v=75q-gO2oiC0
-- 
+- creates .m4a file
+- brew install ffmpeg
+- ffmpeg -i music.m4a to music.mp3
