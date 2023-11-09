@@ -29,9 +29,10 @@
 - File New Audio Recording
 - File New Screen Recording
 - For screen recorder to  use the system input drirectly use blackhole driver
-- brew install blackhole
+- **brew install blackhole**
 - brew install --cask blackhole-16ch
 - Configure audio  midi, see  https://www.youtube.com/watch?v=75q-gO2oiC0
 - creates .m4a file
 - brew install ffmpeg
 - ffmpeg -i music.m4a to music.mp3
+- Setup blackhole driver for using the sound from video directly to feed to quicktime audio recording for both audio and video  --> https://www.youtube.com/watch?v=4cNNcSa-fc0&list=PLlteiYy7hKLLRHXX8tNytjZdG3LvbTN7W
