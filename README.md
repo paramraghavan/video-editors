@@ -31,4 +31,5 @@
 - For screen recorder to  use the system input drirectly use blackhole driver
 - brew install blackhole
 - brew install --cask blackhole-16ch
-- ref --> https://www.youtube.com/watch?v=75q-gO2oiC0
+- Configure audio  midi, see  https://www.youtube.com/watch?v=75q-gO2oiC0
+- 
