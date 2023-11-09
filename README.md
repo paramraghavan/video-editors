@@ -23,3 +23,12 @@
 - [Screenshot tool for designersfront-end engineersmobile developersthose who care about pixel](https://shottr.cc/)
 - [No-Doz for your Mac](http://www.sticksoftware.com/software/Jiggler.html)
 - [dock station software](https://support.displaylink.com/)
+
+## Screen record with Video and Audio
+- Use Quick time  player
+- File New Audio Recording
+- File New Screen Recording
+- For screen recorder to  use the system input drirectly use blackhole driver
+- brew install blackhole
+- brew install --cask blackhole-16ch
+- ref --> https://www.youtube.com/watch?v=75q-gO2oiC0
