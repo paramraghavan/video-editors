@@ -35,4 +35,5 @@
 - creates .m4a file
 - brew install ffmpeg
 - ffmpeg -i music.m4a to music.mp3
+- ffmpeg -ss <start position in sec>-i inputfile -t <duration> -c:a copy outputfile
 - Setup blackhole driver for using the sound from video directly to feed to quicktime audio recording for both audio and video  --> https://www.youtube.com/watch?v=4cNNcSa-fc0&list=PLlteiYy7hKLLRHXX8tNytjZdG3LvbTN7W
