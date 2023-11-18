@@ -16,6 +16,9 @@
 - **Bulk Copy**
   - Select Imported Photos/Videos in Photos App: Go back to the Photos app, and select the photos and videos you've just imported.
   - From the Photos menau, File -> Export -> Export Unmodified Originals For n items, see picture below
-  ![Uploading image.png…]()
+![image](https://github.com/paramraghavan/video-editors/assets/52529498/e9ef29b3-dbbb-4ae6-8e8e-210ce04fb60c)
+
+
+
   
      
