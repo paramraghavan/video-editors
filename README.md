@@ -45,4 +45,3 @@ Cyberduck is a libre server and cloud storage browser for Mac and Windows with s
 
 ## finding duplicate photos and documents on a USB drive using a free apps on macOS
 - dupeGuru: dupeGuru is a free and open-source tool that can find duplicate files in your folders, including photos and documents. It has a special "Picture Mode" that can find similar images even if they are not exactly the same. You can select your USB drive as the folder to scan. Website: dupeGuru
-- Duplicate File Finder Remover: This is another free app available on the Mac App Store that can find and remove duplicate files, including photos and documents, on your USB drive. It offers an intuitive interface and various sorting options to manage duplicates. App Store Link: Duplicate File Finder Remover
