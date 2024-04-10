@@ -37,3 +37,12 @@
 - ffmpeg -i music.m4a to music.mp3
 - ffmpeg -ss <start position in sec>-i inputfile -t <duration> -c:a copy outputfile
 - Setup blackhole driver for using the sound from video directly to feed to quicktime audio recording for both audio and video  --> https://www.youtube.com/watch?v=4cNNcSa-fc0&list=PLlteiYy7hKLLRHXX8tNytjZdG3LvbTN7W
+
+
+## Copy files from OneDrive to local machine
+Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.
+- https://cyberduck.io/
+
+## finding duplicate photos and documents on a USB drive using a free apps on macOS
+- dupeGuru: dupeGuru is a free and open-source tool that can find duplicate files in your folders, including photos and documents. It has a special "Picture Mode" that can find similar images even if they are not exactly the same. You can select your USB drive as the folder to scan. Website: dupeGuru
+- Duplicate File Finder Remover: This is another free app available on the Mac App Store that can find and remove duplicate files, including photos and documents, on your USB drive. It offers an intuitive interface and various sorting options to manage duplicates. App Store Link: Duplicate File Finder Remover
