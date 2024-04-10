@@ -45,3 +45,15 @@ Cyberduck is a libre server and cloud storage browser for Mac and Windows with s
 
 ## finding duplicate photos and documents on a USB drive using a free apps on macOS
 - dupeGuru: dupeGuru is a free and open-source tool that can find duplicate files in your folders, including photos and documents. It has a special "Picture Mode" that can find similar images even if they are not exactly the same. You can select your USB drive as the folder to scan. Website: dupeGuru
+
+## How to format usb drive so  it can be used to share between windows and macbook
+While first ensuring you have a copy of any data on a drive **you want to format as ExFAT**, as formatting will erase the drive’s contents, follow these steps:
+
+- Attach the drive to your Mac.
+- Launch Disk Utility (from Applications > Utilities > Disk Utility).
+- Select the drive in the left-hand sidebar.
+- Click Erase.
+- From the Format menu, select ExFAT.
+- From the Scheme menu, select Master Boot Record.
+- Click Erase and follow prompts to confirm.
+
