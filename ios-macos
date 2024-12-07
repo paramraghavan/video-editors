@@ -1,0 +1,36 @@
+# ios screen time fix
+
+1. Turn off screen time for the device that is needing to be blocked for downtime (childs device)
+2. Make sure all pictures have synced with iCloud or they will be lost (scroll to bottom of photos app to check if any pending) sign out of iCloud on all devices that can either approve screen time requests or have screen time limitations (child and parents)
+3. reset the same devices (not erase content, just reset all settings by going to settings > transfer or reset iPhone > reset > reset all settings)
+4. sign back in to iCloud on all devices
+5. turn screen time back on and set downtime limits
+6. everything should be working normally now and stay as is
+Less
+
+## macosx
+Copy from iphone to mac-osx
+
+### Connect Your iPhone to Your Mac
+Use a USB Cable: Plug your iPhone into your Mac.
+Trust Device: If prompted on your iPhone, tap Trust This Computer and enter your passcode.
+
+### Use the macOS Photos App
+Open Photos App: Launch the Photos app on your Mac.
+Import Photos:
+Select your iPhone under Devices in the sidebar.
+Import the photos you want to save on your Mac.
+Delete After Import:
+After importing, you'll see an option to Delete Items from iPhone. Confirm to remove these photos from your iPhone.
+
+
+### How to Change the Photos Library Location on mac osx
+If you want all your photos to be stored in a different location, like a external hard drive:
+
+Quit Photos if it is open.
+Open Finder and navigate to where your current Photos library is stored (usually in ~/Pictures/Photos Library.photoslibrary).
+Drag the Photos Library file to your desired new location (e.g., an external drive or a specific folder).
+Hold the Option key and open the Photos app.
+In the dialog box that appears, click Choose Library.
+Navigate to the new location and select the Photos Library.
+Note: If the library is on an external drive, ensure it is formatted as APFS or Mac OS Extended (Journaled), and the drive is connected before launching Photos.
