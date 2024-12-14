@@ -34,3 +34,52 @@ Hold the Option key and open the Photos app.
 In the dialog box that appears, click Choose Library.
 Navigate to the new location and select the Photos Library.
 Note: If the library is on an external drive, ensure it is formatted as APFS or Mac OS Extended (Journaled), and the drive is connected before launching Photos.
+
+## How to view photos on my iphone with macOs  like a Usb drive - delete, copy, drag/drop photos
+
+Here's how to access your iPhone as a USB drive on macOS while preventing automatic sync:
+1. Before connecting your iPhone:
+- Open the Photos app on your Mac
+- Go to Photos > Settings (or Preferences)
+- Uncheck "Open Photos when this device is connected"
+- Close Photos app
+
+2. Disable iCloud sync on iPhone temporarily:
+- Go to Settings
+- Tap your name at the top
+- Tap iCloud
+- Tap Photos
+- Turn off iCloud Photos
+
+3. Connect your iPhone:
+- Use USB cable to connect to Mac
+- On iPhone, tap "Trust This Computer" if prompted
+- When prompted on Mac, click "Don't Open" for any auto-launch apps
+
+Here's how to manage photos directly without importing on Mac:
+
+4. Using Image Capture app (easiest method):
+- Open Image Capture (in Applications folder)
+- Connect iPhone
+- Select photos
+- Click Delete button to remove them
+- Or drag selected photos to a folder to copy them
+
+5. Or Using Finder directly:
+- Connect iPhone
+- Open Finder
+- Select iPhone in sidebar
+- Navigate to DCIM folder
+- Select photos
+- Press Command+C to copy or Command+Delete to remove
+- Paste copied photos to desired location
+
+
+Note: Deleting photos this way will remove them from your iPhone. Make sure you've copied any photos you want to keep before deleting.
+
+Important tips:
+- Don't open Photos app while transferring
+- Keep iPhone unlocked during transfer
+- You can re-enable iCloud Photos when done
+- Use "Image Capture" app instead of Photos for more control over imports
+
