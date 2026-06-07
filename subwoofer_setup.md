@@ -1,6 +1,6 @@
-**Subwoofer settings**
+**Subwoofer 
 
-That is a fantastic subwoofer! The Klipsch R-12SWi packs a serious punch, and since it is wireless, you have great flexibility on where to place it in the room.
+The Klipsch R-12SWi packs a serious punch, and since it is wireless, you have great flexibility on where to place it in the room.
 Because your Onkyo receiver is doing all the heavy lifting for the bass management (handling the crossovers digitally in the receiver's menu), you need to set the physical dials on the back of the subwoofer to get out of the receiver's way.
 Here is exactly how to set the physical controls on the back of your Klipsch sub:
 1. The Dials
