@@ -111,7 +111,7 @@ Use this when you want a **normal video file** that looks like it was recorded u
 
 - **Color:** Standard
 - **White Balance:** Auto
-- **Exposure:** Auto
+- **Exposure:** 0
 
 11. Press the **red record button**.
 
